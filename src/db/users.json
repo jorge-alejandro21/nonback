@@ -1,0 +1,47 @@
+[
+    {
+        "item": 1,
+        "password": "$2b$10$wULJSho0LTD9M1Cr4nU09OcmITPWGNHpUo0bIC/t86SS5Zs6Ab0Gu",
+        "firstName": "Juan",
+        "lastName": "Pérez",
+        "phoneNumber": "1234567890",
+        "email": "juan.perez@example.com",
+        "roleId": "6527fbaac0fceec4b1234567"
+    },
+    {
+        "item": 2,
+        "password": "$2b$10$wULJSho0LTD9M1Cr4nU09OcmITPWGNHpUo0bIC/t86SS5Zs6Ab0Gu",
+        "firstName": "María",
+        "lastName": "Gómez",
+        "phoneNumber": "0987654321",
+        "email": "maria.gomez@example.com",
+        "roleId": "6527fbaac0fceec4b2345678"
+    },
+    {
+        "item": 3,
+        "password": "$2b$10$wULJSho0LTD9M1Cr4nU09OcmITPWGNHpUo0bIC/t86SS5Zs6Ab0Gu",
+        "firstName": "Carlos",
+        "lastName": "Lopez",
+        "phoneNumber": "1231231234",
+        "email": "carlos.lopez@example.com",
+        "roleId": "6527fbaac0fceec4b3456789"
+    },
+    {
+        "item": 4,
+        "password": "$2b$10$wULJSho0LTD9M1Cr4nU09OcmITPWGNHpUo0bIC/t86SS5Zs6Ab0Gu",
+        "firstName": "Ana",
+        "lastName": "Martinez",
+        "phoneNumber": "4321432143",
+        "email": "ana.martinez@example.com",
+        "roleId": "6527fbaac0fceec4b4567890"
+    },
+    {
+        "item": 5,
+        "password": "$2b$10$wULJSho0LTD9M1Cr4nU09OcmITPWGNHpUo0bIC/t86SS5Zs6Ab0Gu",
+        "firstName": "Luis",
+        "lastName": "Rodríguez",
+        "phoneNumber": "9876543210",
+        "email": "luis.rodriguez@example.com",
+        "roleId": "6527fbaac0fceec4b5678901"
+    }
+]
